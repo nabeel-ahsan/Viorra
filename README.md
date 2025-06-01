@@ -1,2 +1,16 @@
 # Viorra
-Viorra is a lightweight, browser-based video conferencing application that enables seamless real-time communication. Built for speed, simplicity, and modern web standards.
+
+**Viorra** is a modern web-based video conferencing platform designed for seamless, real-time communication.
+
+It brings together audio, video, and peer-to-peer connectivity to enable smooth, browser-based meetings without the need for plugins or installations.
+
+---
+
+### 🚀 Getting Started
+
+To get started locally:
+
+```bash
+git clone https://github.com/your-username/viorra.git
+cd viorra
+# install dependencies and start the development server
