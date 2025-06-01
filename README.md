@@ -11,6 +11,6 @@ It brings together audio, video, and peer-to-peer connectivity to enable smooth,
 To get started locally:
 
 ```bash
-git clone https://github.com/your-username/viorra.git
+git clone https://github.com/nabeel-ahsan/viorra.git
 cd viorra
 # install dependencies and start the development server
